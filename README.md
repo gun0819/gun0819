@@ -1,6 +1,7 @@
 ## 👋 About Me
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20GunUk%20Chung&fontSize=40)
 - Jeonbuk National University, School of Computer Science
+- Micro Degree (Big data)
 - Chancellor's Award(2024 academic excellence)
 
 ## 💻 Skills
@@ -10,3 +11,9 @@
 - Numerical Analysis & Optimization (Python)
 - AI (python)
 - Machine Learning (python)
+
+## Certificate
+- Engineer Information Processing
+- Linux master 2nd Grade
+- Network Advisor 2nd Grade
+- Korean History Proficiency Test Level 1
