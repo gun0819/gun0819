@@ -7,7 +7,5 @@
 
 ## 📁 Assignment
 - Numerical Analysis & Optimization (Python)
-- Algorithm (C++)
-- OS (C)
 - AI (python)
 - Machine Learning (python)
