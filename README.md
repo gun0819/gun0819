@@ -12,7 +12,7 @@
 - AI (python)
 - Machine Learning (python)
 
-## Certificate
+## 🏆 Certificate
 - Engineer Information Processing
 - Linux master 2nd Grade
 - Network Advisor 2nd Grade
