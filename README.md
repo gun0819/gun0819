@@ -19,4 +19,4 @@
 - Korean History Proficiency Test Level 1
 
 ## Project (in progress..)
-- [Readam](https://readam.netlify.app/#/ "독서 플랫폼 개발") 
+- [ReadAM](https://readam.netlify.app/#/ "독서 플랫폼 개발") - 독서 인증 웹페이지 & LLM을 통한 실독 여부 확인
